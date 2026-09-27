@@ -81,7 +81,9 @@ Essa regra foi considerada para manter a consistência entre os dados de **venda
 
 O modelo conceitual foi desenvolvido para representar as principais entidades do sistema e seus relacionamentos antes da implementação do banco de dados.
 
-<img src="02_modelo_conceitual/modelo_conceitual.png" alt="Modelo Conceitual do E-commerce" width="100%">
+<p align="center">
+  <img src="02_modelo_conceitual/modelo_conceitual.drawio.png" alt="Modelo Conceitual do E-commerce" width="100%">
+</p>
 
 ### Principais entidades
 
